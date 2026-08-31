@@ -1,0 +1,51 @@
+body{
+  margin:0;
+  background-color: #bdbdea;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  height:100vh;
+  flex-direction:column;
+}
+
+
+.outer{
+  width:320px;
+  background-color: whitesmoke;
+  border-radius:15px;
+  padding:16px;
+  height:500px;
+
+}
+
+.text{
+  background-color:whitesmoke;
+  height:160px;
+  text-align:center;
+  margin:25px;
+}
+
+img{
+  border-radius:10px;
+  width:100%;
+  display:block;
+}
+
+footer{
+  margin:40px;
+}
+
+.attribution{
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+a:hover{
+  color: crimson;
+}
+
+
