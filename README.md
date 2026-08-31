@@ -20,7 +20,7 @@ Table of contents
  Links
 
 * Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/)
-* Live Site URL: [View the live website](https://your-live-site-url.com)
+* Live Site URL: [View the live website]([https://your-live-site-url.com](https://rinkeshkumargope.github.io/QR-code-component-solution/))
 
  My process
 
