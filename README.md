@@ -1,6 +1,6 @@
  Frontend Mentor - QR code component solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-solution-bcN0knpoQ_).
 
 This project was built as part of my practice in **HTML and CSS**, with a focus on creating a clean, responsive QR code component and understanding CSS Flexbox, dimensions, spacing, typography, and the CSS box model.
 
@@ -19,8 +19,8 @@ Table of contents
 
  Links
 
-* Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/)
-* Live Site URL: [View the live website]([https://your-live-site-url.com](https://rinkeshkumargope.github.io/QR-code-component-solution/))
+* Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-solution-bcN0knpoQ_)
+* Live Site URL: [View the live website](https://rinkeshkumargope.github.io/QR-code-component-solution/))
 
  My process
 
